@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: animation，music，game
 
-[//]: # "<img align="center" src="http://106.14.45.117:8055/common/upload1/download?name=3238a1a2-5ff9-49dc-8f61-4f255d9a3d40694df87d30dba6850197e5517f4ba680.jpeg" style="max-width: 90%;">"
 
 <img src="http://106.14.45.117:8055/common/upload1/download?name=c5bf6279-b685-45e8-898d-54659c4082abviggle.png" style="zoom:50%;" />
 
