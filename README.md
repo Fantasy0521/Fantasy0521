@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: animation，music，game
 
+[//]: # "<img align="center" src="http://106.14.45.117:8055/common/upload1/download?name=3238a1a2-5ff9-49dc-8f61-4f255d9a3d40694df87d30dba6850197e5517f4ba680.jpeg" style="max-width: 90%;">"
 
-<img align="center" src="http://106.14.45.117:8055/common/upload1/download?name=3238a1a2-5ff9-49dc-8f61-4f255d9a3d40694df87d30dba6850197e5517f4ba680.jpeg" style="max-width: 90%;">
+<img src="http://106.14.45.117:8055/common/upload1/download?name=c5bf6279-b685-45e8-898d-54659c4082abviggle.png" style="zoom:50%;" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Fantasy0521)
 [![](https://img.shields.io/badge/FantasyBlog-black?link=106.14.45.117%3A8080%2Fhome)](http://106.14.45.117:8080/home)
@@ -51,7 +52,6 @@ Here are some ideas to get you started:
 ![js](https://img.shields.io/badge/JavaScript-red?style=flat-square&logo=javascript)
 ![vue](https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vue.js)
 ![uni-app](https://img.shields.io/badge/uniapp-uniapp?style=flat-square&logo=uni-app)
-
 
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=Fantasy0521&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Fantasy0521's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fantasy0521&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
 
