@@ -28,7 +28,10 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: animation，music，game
 
-##### 长期接Java毕业设计，网页/安卓app/小程序开发，SpringBoot/SpringCloud/Dubbo/docker-k8s
+##### 长期接Java毕业设计/外包项目，网页/安卓app/小程序开发，SpringBoot/SpringCloud/Dubbo/docker-k8s
+质量保证，价格美丽，分阶段付款，欢迎联系我：
+QQ: 2835568549
+WX: Fantasy0521-
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Fantasy0521)
