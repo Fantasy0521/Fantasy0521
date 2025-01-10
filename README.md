@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: animation，music，game
 
+##### 长期接Java毕业设计，网页/安卓app/小程序开发，SpringBoot/SpringCloud/Dubbo/docker-k8s
 
-<img src="http://106.14.45.117:8055/common/upload1/download?name=c5bf6279-b685-45e8-898d-54659c4082abviggle.png" style="zoom:50%;" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Fantasy0521)
 [![](https://img.shields.io/badge/FantasyBlog-black?link=106.14.45.117%3A8080%2Fhome)](http://106.14.45.117:8080/home)
