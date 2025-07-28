@@ -55,6 +55,9 @@ WX: Fantasy0521-
 ![js](https://img.shields.io/badge/JavaScript-red?style=flat-square&logo=javascript)
 ![vue](https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vue.js)
 ![uni-app](https://img.shields.io/badge/uniapp-uniapp?style=flat-square&logo=uni-app)
+
+------
+
 <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fantasy0521&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
 
 
