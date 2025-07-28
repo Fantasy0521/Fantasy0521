@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Fantasy0521/Fantasy0521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,13 +33,39 @@ QQ: 2835568549
 WX: Fantasy0521-
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Fantasy0521)
-[![](https://img.shields.io/badge/FantasyBlog-black?link=106.14.45.117%3A8080%2Fhome)](http://106.14.45.117:8080/home)
-[![](https://img.shields.io/badge/OnlinePhotoAlbum-pink?link=106.14.45.117%3A8080%2Fhome)](http://106.14.45.117:8055/index.html)
+#### Top Repositories
+
+
+<a href="https://github.com/Fantasy0521/Fantasy-Games">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fantasy0521&repo=Fantasy-Games&theme=buefy" />
+</a>
+<a href="https://github.com/Fantasy0521/Fantasy-Blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fantasy0521&repo=Fantasy-Blog&theme=buefy" />
+</a>
+
+------
+
+#### Recent portfolio(近期作品集)
+
+**Fantasy-Games**
+SpringBoot + vue
+![](http://101.34.137.166:8055/common/upload1/download?name=afe54c13-ecac-48ea-b96d-ddb936d015baFantasy-Games-img-index.png)
+
+**Fantasy-AI**
+SpringAI + TF-IDF
+![](http://101.34.137.166:8055/common/upload1/download?name=879d047e-c850-4fd7-9879-e5b1dd08f816Fantasy-Games-ai.png)
+
+**Fantasy-Agents**
+RAG(Agent+Ollama+AnythingLLM)
+![](http://101.34.137.166:8055/common/upload1/download?name=ab10eb2d-6be6-4f98-88dd-0e3d3594ac0bDeepSeekChat-img-agents.png)
+
+
+------
 
 ![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=Java)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-Spring?style=flat-square&logo=spring)
 ![SpringCloud](https://img.shields.io/badge/SpringCloud-Spring?style=flat-square&logo=spring)
+![SpringAI](https://img.shields.io/badge/SpringAI-Spring?style=flat-square&logo=spring)
 ![Mysql](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=black)
 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -57,27 +81,3 @@ WX: Fantasy0521-
 ![uni-app](https://img.shields.io/badge/uniapp-uniapp?style=flat-square&logo=uni-app)
 
 ------
-
-#### Top Repositories
-
-
-<a href="https://github.com/Fantasy0521/Fantasy-Games">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fantasy0521&repo=Fantasy-Games&theme=buefy" />
-</a>
-<a href="https://github.com/Fantasy0521/Fantasy-Blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fantasy0521&repo=Fantasy-Blog&theme=buefy" />
-</a>
-
-#### Recent portfolio
-
-**Fantasy-Games**
-
-![](http://101.34.137.166:8055/common/upload1/download?name=afe54c13-ecac-48ea-b96d-ddb936d015baFantasy-Games-img-index.png)
-
-**Fantasy-AI**
-
-![](http://101.34.137.166:8055/common/upload1/download?name=879d047e-c850-4fd7-9879-e5b1dd08f816Fantasy-Games-ai.png)
-
-**Fantasy-Agents**
-
-![](http://101.34.137.166:8055/common/upload1/download?name=ab10eb2d-6be6-4f98-88dd-0e3d3594ac0bDeepSeekChat-img-agents.png)
