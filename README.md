@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: animation，music，game
 
-##### 长期接Java毕业设计/外包项目，网页/安卓app/小程序开发，SpringBoot/SpringCloud/Dubbo/docker-k8s
+##### 长期接Java毕业设计/外包项目，网页/安卓app/小程序/AI智能体开发
+##### SpringBoot/SpringCloud/SpringAI+DeepSeek+RAG(Agent+Ollama+AnythingLLM)/docker-k8s...
 质量保证，价格美丽，分阶段付款，欢迎联系我：
 QQ: 2835568549
 WX: Fantasy0521-
@@ -55,15 +56,30 @@ WX: Fantasy0521-
 ![vue](https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vue.js)
 ![uni-app](https://img.shields.io/badge/uniapp-uniapp?style=flat-square&logo=uni-app)
 
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=Fantasy0521&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Fantasy0521's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fantasy0521&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
+<img height="130px" src="https://github-readme-stats.vercel.app/api?username=huangfan&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Fantasy0521's GitHub Stats"> 
+<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=huangfan&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
 
 
 #### Top Repositories
 
 
-<a href="https://github.com/Fantasy0521/upload-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fantasy0521&repo=upload-server&theme=buefy" />
+<a href="https://github.com/Fantasy0521/Fantasy-Games">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fantasy0521&repo=Fantasy-Games&theme=buefy" />
 </a>
 <a href="https://github.com/Fantasy0521/Fantasy-Blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fantasy0521&repo=Fantasy-Blog&theme=buefy" />
 </a>
+
+#### Recent portfolio
+
+**Fantasy-Games**
+
+![Fantasy-Games-img-index](assets/Fantasy-Games-img-index.png)
+
+**Fantasy-AI**
+
+![Fantasy-Games-ai](assets/Fantasy-Games-ai.png)
+
+**Fantasy-Agents**
+
+![DeepSeekChat-img-agents](assets/DeepSeekChat-img-agents.png)
