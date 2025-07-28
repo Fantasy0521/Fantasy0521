@@ -58,9 +58,6 @@ WX: Fantasy0521-
 
 ------
 
-<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fantasy0521&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
-
-
 #### Top Repositories
 
 
