@@ -55,9 +55,7 @@ WX: Fantasy0521-
 ![js](https://img.shields.io/badge/JavaScript-red?style=flat-square&logo=javascript)
 ![vue](https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vue.js)
 ![uni-app](https://img.shields.io/badge/uniapp-uniapp?style=flat-square&logo=uni-app)
-
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=huangfan&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Fantasy0521's GitHub Stats"> 
-<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=huangfan&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
+<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fantasy0521&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
 
 
 #### Top Repositories
@@ -74,12 +72,12 @@ WX: Fantasy0521-
 
 **Fantasy-Games**
 
-![Fantasy-Games-img-index](assets/Fantasy-Games-img-index.png)
+![](http://101.34.137.166:8055/common/upload1/download?name=afe54c13-ecac-48ea-b96d-ddb936d015baFantasy-Games-img-index.png)
 
 **Fantasy-AI**
 
-![Fantasy-Games-ai](assets/Fantasy-Games-ai.png)
+![](http://101.34.137.166:8055/common/upload1/download?name=879d047e-c850-4fd7-9879-e5b1dd08f816Fantasy-Games-ai.png)
 
 **Fantasy-Agents**
 
-![DeepSeekChat-img-agents](assets/DeepSeekChat-img-agents.png)
+![](http://101.34.137.166:8055/common/upload1/download?name=ab10eb2d-6be6-4f98-88dd-0e3d3594ac0bDeepSeekChat-img-agents.png)
