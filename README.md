@@ -33,17 +33,17 @@ QQ: 2835568549
 WX: Fantasy0521-
 
 
-#### Recent portfolio(近期作品集)
+### 近期作品集：
 
-##### Fantasy-Games
+#### Fantasy-Games
 SpringBoot + vue
 ![](http://101.34.137.166:8055/common/upload1/download?name=afe54c13-ecac-48ea-b96d-ddb936d015baFantasy-Games-img-index.png)
 
-##### Fantasy-AI
+#### Fantasy-AI
 SpringAI + TF-IDF
 ![](http://101.34.137.166:8055/common/upload1/download?name=879d047e-c850-4fd7-9879-e5b1dd08f816Fantasy-Games-ai.png)
 
-##### Fantasy-Agents
+#### Fantasy-Agents
 RAG(Agent+Ollama+AnythingLLM)
 ![](http://101.34.137.166:8055/common/upload1/download?name=ab10eb2d-6be6-4f98-88dd-0e3d3594ac0bDeepSeekChat-img-agents.png)
 
@@ -57,6 +57,9 @@ RAG(Agent+Ollama+AnythingLLM)
 <a href="https://github.com/Fantasy0521/Fantasy-Blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fantasy0521&repo=Fantasy-Blog&theme=buefy" />
 </a>
+
+------
+
 
 ![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=Java)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-Spring?style=flat-square&logo=spring)
